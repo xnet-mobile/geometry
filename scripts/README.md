@@ -17,10 +17,13 @@ System](../docs/X5.md) documentation.
 
 * [geom.js](geom.js) &mdash; the reference implementation for core X5
   hex mapping
-  * [x5geom.py](x5geom.py) &mdash; geom.js translated to Python3 by way of `js2py`
+  * [x5geom.py](x5geom.py) &mdash; geom.js translated to Python3 by
+    way of `js2py`
 * [words2index.js](words2index.js) &mdash; map X5 hex indices into
-  * [x5words2index.py](x5words2index.py) &mdash; words2index.js translated to Pyhthon3 by way of `js2py`
   three-word names, and vice versa.
+  * [x5words2index.py](x5words2index.py) &mdash; words2index.js
+  translated to Pyhthon3 by way of `js2py` three-word names, and vice
+  versa.
 * [zip2map.py](zip2map.py) &mdash; a
   [yapCAD](https://github.com/rdevaul/yapCAD)-based tool for
   generating hex tilings of zipcodes
