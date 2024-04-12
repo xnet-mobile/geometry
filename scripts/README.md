@@ -81,7 +81,7 @@ copied into the `output` directory for convenience.  You might invoke
 the script as:
 
 	cd ../output
-	python3 ../scripts/zip2map.py il_illinois_zip_codes_geo.json `cat chicagoZIPS.txt`
+	python3 ../scripts/zip2map.py il_illinois_zip_codes_geo.json chicago `cat chicagoZIPS.txt`
 
 ## zip code to hex mapping problem overview
 
