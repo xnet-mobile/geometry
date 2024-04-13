@@ -12,8 +12,7 @@ from yapcad.pyglet_drawable import *
 from yapcad.ezdxf_drawable import *
 from x5geom import geom
 from x5words2index import x5words2index
-#from yapcad.geom import *
-from yapgeom import *
+from yapcad.geom import *
 import json
 import os
 
